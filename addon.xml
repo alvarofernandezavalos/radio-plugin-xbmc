@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.radihans"
+	name="RadiHans"
+	version="1.0.0"
+	provider-name="hanzou">
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">RadiHans</summary>
+    <description lang="en">RadiHans</description>
+    <summary lang="es">RadiHans</summary>
+    <description lang="es">RadiHans</description>
+    <platform>all</platform>
+  </extension>
+</addon>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<radios>
+	<radio id="1">
+		<title>RAC1</title>
+		<plot>RAC1 Catalunya</plot>
+		<thumbnail>http://www.rac1.cat/rsc/images/logo.jpg</thumbnail>
+		<url>http://streaming3.radiocat.net:80/</url>
+	</radio>
+	<radio id="2">
+		<title>RAC105</title>
+		<plot>RAC105</plot>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rac105.jpg/225px-Rac105.jpg</thumbnail>
+		<url>http://rac105.org/audio/nou_rac105.pls</url>
+	</radio>
+	<radio id="3">
+		<title>Los 40</title>
+		<plot>Los 40</plot>
+		<thumbnail>http://cdncf.yes.fm/radios/fm/1/20161758642832.jpeg</thumbnail>
+		<url>http://77.67.34.11/LOS40_CAT.mp3</url>
+	</radio>
+</radios>
