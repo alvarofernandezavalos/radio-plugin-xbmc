@@ -1,0 +1,6 @@
+{
+  "name": "Radihans",
+  "tagline": "Radio for XBMC",
+  "body": "\r\nEste es mi primer proyecto en Python y la primera vez que utilizao GitHub.\r\n\r\nEsta aplicación es muy \"tonta\", lee un fichero xml en el que contiene, nombre, descripcion, imagen y url\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
