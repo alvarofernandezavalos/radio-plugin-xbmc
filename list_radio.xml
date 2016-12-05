@@ -18,4 +18,23 @@
     <thumbnail>http://cdncf.yes.fm/radios/fm/1/20161758642832.jpeg</thumbnail>
     <url>http://77.67.34.11/LOS40_CAT.mp3</url>
   </radio>
+  <radio id="4">
+    <title>Flaix FM</title>
+    <plot>Flaix FM</plot>
+    <thumbnail>http://ondemandimg.flaix.ondemand.flumotion.com/flaix/ondemandimg/direct_delivery/FM-Llista/portades/default300.png</thumbnail>
+    <url>http://www.listenlive.eu/flaixfm.m3u</url>
+  </radio>
+  <radio id="5">
+    <title>Barcelona FM</title>
+    <plot>Barcelona FM</plot>
+    <thumbnail>https://d13yacurqjgara.cloudfront.net/users/24885/screenshots/1799551/page-cannot-be-found_1x.png</thumbnail>
+    <url>http://shoutcast.barcelonatv.stream.flumotion.com/barcelonatv/live.mp3.m3u</url>
+  </radio>
+<!--   <radio id="6"> -->
+<!--     <title>iCat FM</title> -->
+<!--     <plot>iCat FM</plot> -->
+<!--     <thumbnail>https://d13yacurqjgara.cloudfront.net/users/24885/screenshots/1799551/page-cannot-be-found_1x.png</thumbnail> -->
+<!--     <url>http://www.catradio.cat/directes/icat_http.m3u</url> -->
+<!--   </radio> -->
+
 </radios>
