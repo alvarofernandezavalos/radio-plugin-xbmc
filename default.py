@@ -1,6 +1,7 @@
 import os
 import sys
 import plugintools
+import urllib2
 
 # Entry point
 def run():
@@ -19,6 +20,9 @@ def run():
 
 # Main menu
 def main_list(params):
+        response = urllib2.urlopen('https://dl.dropboxusercontent.com/s/w9m6ivj70i5fgyg/list_radio.xml')
+        with open(os.path.dirname(os.path.realpath(__file__))+'/list_radio.xml','wb') as output:
+            output.write(response.read())
         import xml.etree.ElementTree as ET
         tree = ET.parse(os.path.dirname(os.path.realpath(__file__))+'/list_radio.xml')
         root = tree.getroot()
